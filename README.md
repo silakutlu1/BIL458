@@ -26,7 +26,7 @@ Bu projeye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları izle
  Bir pull request gönderin.<br/>
  <br/>
  
- Her türlü geri bildirime açığız!
+ Her türlü geri bildirime açığız!<br/>
 <br/>
  Lisans <br/>
  
