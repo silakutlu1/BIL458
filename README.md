@@ -16,18 +16,19 @@ Kod, mirror_upper_star_triangle(n) adlı bir fonksiyon içerir. Bu fonksiyon şu
  Terminal veya komut satırını açın.
  Aşağıdaki komutları çalıştırarak kodu kullanın:
  python mirror_upper_star_triangle.py
- Ardından, program sizden üçgenin yüksekliğini girmenizi isteyecektir. Örneğin, 3 girildiğinde aşağıdaki çıktı elde edilir:   *
-<br/>                                                                                                                             * *
-Katkıda Bulunma
+ Ardından, program sizden üçgenin yüksekliğini girmenizi isteyecektir.<br/> Örneğin, 3 girildiğinde aşağıdaki çıktı elde edilir: <br/>  *
+<br/>                                                                                                                           <br/>  * * <br/>
+Katkıda Bulunma <br/>
 Bu projeye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları izleyin:
 
- Bu repository'yi fork edin.
- Değişikliklerinizi yapın.
- Bir pull request gönderin.
+ Bu repository'yi fork edin.<br/>
+ Değişikliklerinizi yapın.<br/>
+ Bir pull request gönderin.<br/>
  <br/>
  Her türlü geri bildirime açığız!
 <br/>
- Lisans
- Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.                                                                  
+ Lisans <br/>
+ 
+ Bu proje MIT lisansı ile lisanslanmıştır. <br/> Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.                                                                  
 
 
