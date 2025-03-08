@@ -1,0 +1,1 @@
+"# Mirror Upper Star Triangle" 
