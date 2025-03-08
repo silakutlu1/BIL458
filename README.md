@@ -12,10 +12,10 @@ Kod, mirror_upper_star_triangle(n) adlı bir fonksiyon içerir. Bu fonksiyon şu
  Kullanım:<br/>
  Bu programı çalıştırmak için aşağıdaki adımları takip edin:<br/>
 
- Python 3'ün sisteminizde kurulu olduğundan emin olun.
- Terminal veya komut satırını açın.
- Aşağıdaki komutları çalıştırarak kodu kullanın:
- python mirror_upper_star_triangle.py
+ Python 3'ün sisteminizde kurulu olduğundan emin olun.<br/>
+ Terminal veya komut satırını açın. <br/>
+ Aşağıdaki komutları çalıştırarak kodu kullanın: <br/>
+ python mirror_upper_star_triangle.py <br/>
  Ardından, program sizden üçgenin yüksekliğini girmenizi isteyecektir.<br/> Örneğin, 3 girildiğinde aşağıdaki çıktı elde edilir: <br/>  *
 <br/>                                                                                                                                  * * <br/>
 Katkıda Bulunma <br/>
